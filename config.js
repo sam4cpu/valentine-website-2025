@@ -24,7 +24,7 @@ const CONFIG = {
         first: {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yep",                                             // Text for "Yes" button
-            noBtn: "..nope",                                               // Text for "No" button
+            noBtn: "nope",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you a lot!"           // Secret hover message
         },
         second: {
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Click me dude!!"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2026? 😁", // The big question!
+            text: "Will you be my Valentine? 😁", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "no.."                                                 // Text for "No" button
         }
