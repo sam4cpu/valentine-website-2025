@@ -23,8 +23,8 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
+            yesBtn: "Yep",                                             // Text for "Yes" button
+            noBtn: "..nope",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you a lot!"           // Secret hover message
         },
         second: {
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "STILL not as much as me but tysm x",  // Shows when they go past 5000%
-        high: "Still not as much as me (.. was going to say plus ultra :o)",              // Shows when they go past 1000%
+        extreme: "STILL not as much as me but tysmmm (.. was going to say plus ultra :o)",  // Shows when they go past 5000%
+        high: "Still not as much as me x",              // Shows when they go past 1000%
         normal: "Ayeeee"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Ayee I'm the luckiest !",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Ayee I'm literally the luckiest dude ever!",
+        message: "Can't wait to see you <33 ",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
