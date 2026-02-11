@@ -42,14 +42,14 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "STILL not as much as me but tysmmm (.. was going to say plus ultra :o)",  // Shows when they go past 5000%
+        extreme: "BABE UR BREAKING IT <333",  // Shows when they go past 5000%
         high: "Still not as much as me x",              // Shows when they go past 1000%
         normal: "Ayeeee"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Ayee I'm literally the luckiest dude ever!",
+        title: "I'm literally the luckiest dude ever!",
         message: "Can't wait to see you <33 ",
         emojis: "😣🥹😭❤️😛"  // These will bounce around
     },
@@ -61,7 +61,7 @@ const CONFIG = {
         backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#FFCF71",     // Button color (should stand out against the background)
         buttonHover: "#FFDD99",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        textColor: "#FFCF71"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
